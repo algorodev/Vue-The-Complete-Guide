@@ -1,0 +1,9 @@
+# Bundle artifacts
+/node_modules
+/dist
+
+# Editor directories
+.idea
+
+# System files
+.DS_Store
