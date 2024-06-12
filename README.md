@@ -4,8 +4,7 @@
 
 <div align="center">
   <h3>List of content</h3>
-  <a href="https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/warmup/solve-me-first/solve-me-first.js">Section 01: Getting Started</a>
+  <a href="https://github.com/algorodev/Vue-The-Complete-Guide/blob/master/getting-started">Section 01: Getting Started</a>
   <br>
-  <a href="https://github.com/algorodev/hackerrank-challenges/blob/master/algorithms/warmup/solve-me-first/solve-me-first.js">Section 02: Basics & Core Concepts - DOM Interaction with Vue</a>
+  <a href="https://github.com/algorodev/Vue-The-Complete-Guide/blob/master/basic-&-core-concepts">Section 02: Basics & Core Concepts - DOM Interaction with Vue</a>
 </div>
-
